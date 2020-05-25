@@ -3,10 +3,6 @@ layout: default
 title: Summer 2020 DREU Project Site
 ---
 
-
-* TOC
-{:toc}
-
 ## About Me
 
   Hola! As you can see in the big black words on top of this page - my name is Emelia Beldon. I am currently a third-year at Gallaudet University pursuing a Bachelor of Science in Informational Technology and a minor in Mathematics. I have been a student of ccomputing ever since I could remember and hopefully with this experience and opportunity, I will be able to expand my horizons and dive even further into computer science. 
